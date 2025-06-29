@@ -70,7 +70,7 @@ def check_resources():
         'res/背景.png',
         'res/剪影.png',
         'res/校名.png',
-        'res/通班&智能专业课 表格.xlsx'
+        'res/通班&智能专业课 表格.xlsx',
         'res/课程评分.xlsx',
     ]
     
